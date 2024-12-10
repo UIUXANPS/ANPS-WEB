@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
             errorMessageBox.style.display = 'block';
         } else {
             // If valid, redirect to index.html
-            window.location.href = 'Dashboard.html';
+            window.location.href = 'index.html';
         }
     });
 });
